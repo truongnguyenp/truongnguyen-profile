@@ -4,20 +4,20 @@
 <h1 align="center">Hi, I'm Nguyen Phi Truong 👋</h1>
 <h3 align="center">Fullstack Developer from VietNam</h3>
 
-🌟 Welcome to my GitHub profile! I'm Nguyen Phi Truong, a passionate Fullstack
+-🌟 Welcome to my GitHub profile! I'm Nguyen Phi Truong, a passionate Fullstack
 Developer based in VietNam. I enjoy crafting web applications and diving into
 new technologies to build innovative solutions. 
-🚀 Currently, I'm working at **Enouvo
+- 🚀 Currently, I'm working at **Enouvo
 IT solution**, where I collaborate on exciting projects and continuously strive
 to enhance my development skills. 
-📚 My current learning journey includes
+-📚 My current learning journey includes
 delving into **Blockchain technologies (Solana, ETH, ...)**, honing my Backend
 development skills, mastering Infrastructure management, and exploring the vast
 world of Cloud computing. 
-💬 Feel free to reach out to me if you have questions
+-💬 Feel free to reach out to me if you have questions
 or want to discuss anything related to **React, NodeJS, AWS, or Security**. I'm
 always eager to share knowledge and engage in interesting tech discussions. 📧
-You can get in touch with me via email at **truongnguyenptn@gmail.com**.
+-You can get in touch with me via email at **truongnguyenptn@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
