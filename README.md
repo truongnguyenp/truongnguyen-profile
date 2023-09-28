@@ -169,10 +169,34 @@ You can get in touch with me via email at **truongnguyenptn@gmail.com**.
 <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="aws"
+      width="60"
+      height="60"
+    />
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
+      width="60"
+      height="60"
+    />
+  </a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+      alt="kubernetes"
+      width="60"
+      height="60"
+    />
+  </a>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+      alt="jenkins"
       width="60"
       height="60"
     />
@@ -193,6 +217,18 @@ You can get in touch with me via email at **truongnguyenptn@gmail.com**.
       height="60"
     />
   </a>
+    <a
+    href="https://www.microsoft.com/en-us/sql-server"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+      alt="mssql"
+      width="60"
+      height="60"
+    />
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -209,7 +245,23 @@ You can get in touch with me via email at **truongnguyenptn@gmail.com**.
       height="60"
     />
   </a>
-  <!-- Add more tool icons here -->
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="60"
+      height="60"
+    />
+  </a>
+  
 </p>
 
 <!-- GitHub Stats -->
