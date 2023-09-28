@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-[![Header](https://github.com/truongnguyenptn/truongnguyenptn/blob/main/assets/header.png)](https://twitter.com/truongnguyenptn)
+[![Header]()](https://twitter.com/truongnguyenptn)
 
 <h1 align="center">Hi, I'm Nguyen Phi Truong 👋</h1>
 <h3 align="center">Fullstack Developer from VietNam</h3>
