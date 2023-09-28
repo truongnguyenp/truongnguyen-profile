@@ -6,12 +6,15 @@
 
 🌟 Welcome to my GitHub profile! I'm Nguyen Phi Truong, a passionate Fullstack
 Developer based in VietNam. I enjoy crafting web applications and diving into
-new technologies to build innovative solutions. 🚀 Currently, I work at **Enouvo
+new technologies to build innovative solutions. 
+🚀 Currently, I'm working at **Enouvo
 IT solution**, where I collaborate on exciting projects and continuously strive
-to enhance my development skills. 📚 My current learning journey includes
+to enhance my development skills. 
+📚 My current learning journey includes
 delving into **Blockchain technologies (Solana, ETH, ...)**, honing my Backend
 development skills, mastering Infrastructure management, and exploring the vast
-world of Cloud computing. 💬 Feel free to reach out to me if you have questions
+world of Cloud computing. 
+💬 Feel free to reach out to me if you have questions
 or want to discuss anything related to **React, NodeJS, AWS, or Security**. I'm
 always eager to share knowledge and engage in interesting tech discussions. 📧
 You can get in touch with me via email at **truongnguyenptn@gmail.com**.
