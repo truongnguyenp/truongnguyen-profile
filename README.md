@@ -5,7 +5,7 @@
 -🌟 Welcome to my GitHub profile! I'm Nguyen Phi Truong, a passionate Fullstack
 Developer based in VietNam. I enjoy crafting web applications and diving into
 new technologies to build innovative solutions. 
-- 🚀 Currently, I'm working at **Sky Mavis**, where I collaborate on exciting projects and continuously strive
+- 🚀 Currently, I'm working at **Openverse.tech**, where I collaborate on exciting projects and continuously strive
 to enhance my development skills.
 - 🌐 I'm also the founder of **OpenverseHQ**, where we are building innovative solutions and decentralized apps.
 - 📚 My current learning journey includes
